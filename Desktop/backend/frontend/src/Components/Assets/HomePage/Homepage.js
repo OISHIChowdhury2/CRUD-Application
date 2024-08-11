@@ -9,8 +9,7 @@ export const Homepage= () => {
 				<li></li>
 				<li></li>
 				<li></li>
-				<li></li>
-				<li></li>
+				<li></li> <li></li>
 				<li></li>
 				<li></li>
 				<li></li>
